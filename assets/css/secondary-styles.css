@@ -6,12 +6,9 @@
 }
 
 .page-title {
-    color: #fce138;
-}
-
-.page-title h2 {
+    color: #f38a00;
     display: inline-block;
-    border-bottom: #fce138 4px solid;
+    border-bottom: #f38a00 4px solid;
     padding: 0 80px 15px 80px;
     font-weight: normal;
     font-size: 42px;

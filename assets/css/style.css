@@ -19,14 +19,14 @@ header {
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #fce138;
+    color: #f5e96c;
     margin: 0;
     display: inline;
 }
 
 header a {
     text-decoration: none;
-    color: #fce138;
+    color: #f5e96c;
 }
 
 header nav {
@@ -45,7 +45,7 @@ header nav ul li a {
 }
 
 footer {
-    background: #fce138;
+    background: #f5e96c;
     width: 100%;
     padding: 40px 35px;
 }
@@ -82,7 +82,7 @@ section {
 
 .hero-form {
     border: solid 3px #024e76;
-    background-color: #fce138;
+    background-color: #f5e96c;
     padding: 20px;
     width: 500px;
     color: #024e76;
@@ -115,7 +115,7 @@ section {
 }
 
 .hero-form button {
-    color: #fce138;
+    color: #f5e96c;
     background-color: #024e76;
     border: none;
     padding: 10px 20px;
@@ -138,7 +138,7 @@ section {
 
 .steps {
     text-align: center;
-    background: #fce138;
+    background: #f5e96c;
 }
 
 .section-title {
@@ -151,7 +151,7 @@ section {
 }
 
 .primary-border {
-    border-color: #fce138;
+    border-color: #f5e96c;
 }
 
 .secondary-border {
@@ -190,7 +190,7 @@ section {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
-    color: #fce138;
+    color: #f5e96c;
     overflow: auto;
 }
 
@@ -237,7 +237,7 @@ section {
 }
 
 .contact h2 {
-    color: #fce138;
+    color: #f5e96c;
 }
 
 .contact-info iframe {
@@ -267,7 +267,7 @@ section {
 }
 
 .contact-info a {
-    color: #fce138;
+    color: #f5e96c;
 }
 
 /* REACH OUT STYLE END */
